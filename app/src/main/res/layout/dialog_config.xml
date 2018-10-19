@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/dialog_width"
+    android:layout_height="@dimen/config_dialog_height"
+    android:background="@mipmap/dialog_bg"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:background="@mipmap/red_button"
+        android:layout_width="@dimen/config_width"
+        android:layout_height="@dimen/config_height">
+
+        <TextView
+            android:id="@+id/quick"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="文本速度"
+            android:textColor="@color/textColorPrimary"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/speed1"
+            android:paddingLeft="@dimen/widget_margin2"
+            android:paddingRight="@dimen/widget_margin2"
+            android:text="1"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/navigationBarColor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/speed2"
+            android:paddingLeft="@dimen/widget_margin2"
+            android:paddingRight="@dimen/widget_margin2"
+            android:text="2"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/textColorPrimary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/speed3"
+            android:paddingLeft="@dimen/widget_margin2"
+            android:paddingRight="@dimen/widget_margin2"
+            android:text="3"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/textColorPrimary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/endings"
+        android:layout_width="@dimen/config_width"
+        android:layout_height="@dimen/config_height"
+        android:layout_marginTop="@dimen/pop_margin"
+        android:background="@mipmap/gray_button"
+        android:gravity="center"
+        android:text="结局信息"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/imaginary_space"
+        android:layout_width="@dimen/config_width"
+        android:layout_height="@dimen/config_height"
+        android:layout_marginTop="@dimen/pop_margin"
+        android:background="@mipmap/green_button"
+        android:gravity="center"
+        android:text="制作人员"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/new_charpter"
+        android:layout_width="@dimen/config_width"
+        android:layout_height="@dimen/config_height"
+        android:layout_marginTop="@dimen/pop_margin"
+        android:background="@mipmap/red_button"
+        android:gravity="center"
+        android:text="重新开始"
+        android:textColor="@color/textColorPrimary"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tips"
+        android:layout_width="@dimen/config_width"
+        android:layout_height="@dimen/config_height"
+        android:layout_marginTop="@dimen/pop_margin"
+        android:background="@mipmap/gray_button"
+        android:gravity="center"
+        android:text="查看提示"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+</LinearLayout>

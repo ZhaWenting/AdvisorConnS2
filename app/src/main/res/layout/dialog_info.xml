@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/dialog_width"
+    android:layout_height="@dimen/dialog_height"
+    android:background="@mipmap/dialog_bg"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_marginTop="@dimen/tiny_margin"
+        android:id="@+id/imaginary_space"
+        android:layout_gravity="center"
+        android:layout_width="@dimen/dialog_title_width"
+        android:layout_height="@dimen/dialog_title_height"
+        android:background="@mipmap/green_button"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="制作人员"/>
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/widget_margin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="@dimen/staff_width"
+            android:layout_height="@dimen/loading_margin"
+            android:gravity="center"
+            android:text="策划、程序、编剧："
+            android:textColor="@color/textColorPrimary"
+            android:textSize="@dimen/endingText"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:layout_width="@dimen/staff_width"
+            android:layout_height="@dimen/loading_margin"
+            android:gravity="center"
+            android:text="字母AL"
+            android:textColor="@color/textColorPrimary"
+            android:textSize="@dimen/endingText"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="@dimen/staff_width"
+            android:layout_height="@dimen/loading_margin"
+            android:gravity="center"
+            android:text="美术：尤里的猫"
+            android:textColor="@color/textColorPrimary"
+            android:textSize="@dimen/endingText"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="@dimen/staff_width"
+            android:layout_height="@dimen/loading_margin"
+            android:gravity="center"
+            android:text="服务器：Eternally"
+            android:textColor="@color/textColorPrimary"
+            android:textSize="@dimen/endingText"
+            android:textStyle="bold"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,5 @@
+[
+{"type":"hero_text","hero_text":"我正在挑战恶魔的语言、温州话"},
+{"type":"player_single_branch","player_single_branch":"温州话不是外语"},
+{"type":"return_chapter","return_chapter":"$season2_day2_virus$"}
+]

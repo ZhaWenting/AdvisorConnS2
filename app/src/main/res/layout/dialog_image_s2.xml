@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/dialog_height"
+    android:layout_height="@dimen/config_dialog_height"
+    android:background="@mipmap/dialog_bg"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/image"
+        android:src="@mipmap/virus_avatar_s2"
+        android:layout_margin="@dimen/widget_margin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

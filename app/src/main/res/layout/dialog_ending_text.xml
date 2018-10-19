@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/dialog_width"
+    android:layout_height="@dimen/dialog_height"
+    android:background="@mipmap/dialog_bg"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_marginTop="@dimen/tiny_margin"
+        android:layout_gravity="center"
+        android:id="@+id/imaginary_space"
+        android:layout_width="@dimen/dialog_title_width"
+        android:layout_height="@dimen/dialog_title_height"
+        android:background="@mipmap/gray_button"
+        android:gravity="center"
+        android:text="结局信息"
+        android:textSize="@dimen/titleText"
+        android:textStyle="bold" />
+
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_marginTop="@dimen/widget_margin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="@string/fall_down"
+            android:textSize="@dimen/username"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+        <TextView
+            android:id="@+id/fall_down"
+            android:visibility="invisible"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="脚一滑，撞倒了头……"
+            android:textSize="@dimen/ending_content"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+
+        <TextView
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/username"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+        <TextView
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/ending_content"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+
+        <TextView
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/username"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+        <TextView
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/ending_content"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+
+        <TextView
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/username"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+        <TextView
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/ending_content"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+    </LinearLayout>
+
+</LinearLayout>

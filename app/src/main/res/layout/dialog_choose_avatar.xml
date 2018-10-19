@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@mipmap/dialog_bg"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+
+
+    <ImageView
+        android:layout_marginTop="@dimen/config_height"
+        android:layout_gravity="center"
+        android:id="@+id/xea"
+        android:src="@mipmap/xea_avatar_s2"
+        android:layout_width="@dimen/margin_top2"
+        android:layout_height="@dimen/margin_top2" />
+
+
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/virus"
+        android:src="@mipmap/virus_avatar_s2"
+        android:layout_margin="@dimen/pop_margin"
+        android:layout_width="@dimen/margin_top2"
+        android:layout_height="@dimen/margin_top2" />
+
+
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+[
+{"type":"clue","clue_tag":"4"},
+{"type":"left_text","hero_text":"！！！"},
+{"type":"left_text","hero_text":"你说出了我的心里话"},
+{"type":"left_text","hero_text":"这些怪物确实跟游戏里一样"},
+{"type":"left_text","hero_text":"是我一直玩的那些游戏"},
+{"type":"left_text","hero_text":"一模一样"},
+{"type":"left_text","hero_text":"这不科学啊！"},
+{"type":"left_text","hero_text":"游戏里的怪物为什么会变成现实？"},
+{"type":"skip","chapter_name":"$chapter2$"}
+]

@@ -1,0 +1,16 @@
+[
+{"type":"hero_text","hero_text":"如果你是说货币的话，比特币是很重要的运作中心"},
+{"type":"hero_text_linked","hero_text_linked":"比特币在暗网也通用吗","linked_word":"比特币"},
+{"type":"hero_text","hero_text":"我一直觉得这是区块链能火起来的重要原因"},
+{"type":"hero_text_linked","hero_text_linked":"区块链怎么说","linked_word":"区块链"},
+{"type":"hero_text","hero_text":"比特币是一个黑白通吃的东西"},
+{"type":"hero_text","hero_text":"暗网上的枪支毒品买卖很多都是用比特币交易的"},
+{"type":"hero_text","hero_text":"这些东西牵涉着很多人的利益"},
+{"type":"hero_text","hero_text":"比特币的利益网太复杂了，不是那么容易完蛋的"},
+{"type":"hero_text","hero_text":"有很多次差点奔溃，但还是活着"},
+{"type":"hero_text","hero_text":"资本家们的又一次剪羊毛而已"},
+{"type":"player_single_branch","player_single_branch":"你是在向我推销比特币吗"},
+{"type":"hero_text","hero_text":"嘻嘻被你发现了，我手上有几百个比特币想套现"},
+{"type":"player_single_branch","player_single_branch":"土豪惹不起"},
+{"type":"return_chapter","return_chapter":"$season2_day2_virus$"}
+]

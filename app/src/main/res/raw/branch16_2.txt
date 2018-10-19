@@ -1,0 +1,10 @@
+[
+{"type":"left_text","hero_text":"你的意思是这房间还会动？"},
+{"type":"left_text","hero_text":"转来转去的？"},
+{"type":"left_text","hero_text":"前后互换的？"},
+{"type":"left_text","hero_text":"这想象力我给满分"},
+{"type":"left_text","hero_text":"呃"},
+{"type":"left_text","hero_text":"还真说不准"},
+{"type":"left_text","hero_text":"这地方会发生什么都不奇怪了"},
+{"type":"skip","chapter_name":"$ending_infinity$"}
+]

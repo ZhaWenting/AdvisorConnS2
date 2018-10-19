@@ -1,0 +1,11 @@
+[
+{"type":"left_text","hero_text":"不搞清楚的话，什么问题也解决不了"},
+{"type":"left_text","hero_text":"喉咙里卡着跟刺一样"},
+{"type":"left_text","hero_text":"听你的继续往前走"},
+{"type":"left_text","hero_text":"前面有个很醒目的东西"},
+{"type":"left_text","hero_text":"是一道门"},
+{"type":"left_text","hero_text":"上面画着断线人偶"},
+{"type":"left_text","hero_text":"我咽了咽口水"},
+{"type":"left_text","hero_text":"拿出了钥匙"},
+{"type":"skip","chapter_name":"$chapter2$"}
+]

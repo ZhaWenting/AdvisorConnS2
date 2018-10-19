@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 列表tab tab背景selector -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/lock" android:state_enabled="false" />
+    <item android:drawable="@drawable/cutoff" android:state_enabled="true" />
+
+</selector>

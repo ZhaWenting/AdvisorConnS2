@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "385344965983",
+    "firebase_url": "https://advisorconn-b5152.firebaseio.com",
+    "project_id": "advisorconn-b5152",
+    "storage_bucket": "advisorconn-b5152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385344965983:android:8572353e2706484d",
+        "android_client_info": {
+          "package_name": "alphabet.adviserconn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385344965983-amgov1tbkto702ftefde6co891c01092.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alphabet.adviserconn",
+            "certificate_hash": "4f7fbb5bdb3b913ba4bc0d3940f81a7bbdebf973"
+          }
+        },
+        {
+          "client_id": "385344965983-ltkb1hifsekpe16k4dem5srvlcthn175.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "385344965983-ltkb1hifsekpe16k4dem5srvlcthn175.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACOHY4Q2jSvXpccZHm5AqXkWSflv2NaaA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385344965983-ltkb1hifsekpe16k4dem5srvlcthn175.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

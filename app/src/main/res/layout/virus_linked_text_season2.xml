@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_marginTop="@dimen/widget_margin"
+    android:layout_marginRight="@dimen/loading_margin"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:drawableLeft="@mipmap/explorer_icon_s2"
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/ending_top"
+        android:paddingTop="@dimen/widget_margin3"
+        android:paddingBottom="@dimen/widget_margin3"
+        android:paddingRight="@dimen/dialog_text_right"
+        android:background="@mipmap/virus_text"
+        android:textColor="@color/navigationBarColor" />
+
+    <!--<ImageView-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:layout_marginLeft="@dimen/widget_margin"-->
+        <!--android:layout_toLeftOf="@id/text"-->
+        <!--android:src="@mipmap/reload_time"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="match_parent" />-->
+
+</RelativeLayout>

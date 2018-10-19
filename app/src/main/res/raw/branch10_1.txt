@@ -1,0 +1,6 @@
+[
+{"type":"left_text","hero_text":"你是小唯吗？"},
+{"type":"left_text","hero_text":"是我女朋友吗？"},
+{"type":"left_text","hero_text":"你知道门在哪里吗"},
+{"type":"skip","chapter_name":"$chapter3$"}
+]

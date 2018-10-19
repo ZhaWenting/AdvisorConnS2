@@ -1,0 +1,7 @@
+[
+{"type":"left_text","hero_text":"我决定使出必杀——二指禅"},
+{"type":"left_text","hero_text":"开始运气并拢了食指和中指，然后……"},
+{"type":"left_text","hero_text":"以迅雷不及掩耳的速度戳向大叔的眼睛"},
+{"type":"left_text","hero_text":"他躲都没躲，眼睛不眨一下"},
+{"type":"skip","chapter_name":"$chapter1$"}
+]

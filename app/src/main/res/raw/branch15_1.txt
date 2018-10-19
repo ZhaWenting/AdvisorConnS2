@@ -1,0 +1,7 @@
+[
+{"type":"left_text","hero_text":"哦对了，你可能还不知道吧"},
+{"type":"left_text","hero_text":"他是以我男朋友为原型做出来的游戏AI"},
+{"type":"left_text","hero_text":"本来想带他一起出来的"},
+{"type":"left_text","hero_text":"可惜我备份完自己的数据之后，服务器已经修好了"},
+{"type":"skip","chapter_name":"$ending_chaos$"}
+]

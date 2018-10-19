@@ -1,0 +1,8 @@
+[
+{"type":"clue","clue_tag":"2"},
+{"type":"left_text","hero_text":"确实"},
+{"type":"left_text","hero_text":"第一次拿到钥匙的时候，它就在震动"},
+{"type":"left_text","hero_text":"那时候也发生了时间循环"},
+{"type":"left_text","hero_text":"时间恢复正常了，钥匙也没反应了"},
+{"type":"skip","chapter_name":"$chapter2$"}
+]

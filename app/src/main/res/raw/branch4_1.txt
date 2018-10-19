@@ -1,0 +1,7 @@
+[
+{"type":"left_text","hero_text":"开门会引起时间循环"},
+{"type":"left_text","hero_text":"有可能"},
+{"type":"left_text","hero_text":"我觉得每次被门吸进去都像是进了黑洞一样"},
+{"type":"left_text","hero_text":"难道这就是传说中的奇点？"},
+{"type":"skip","chapter_name":"$chapter2$"}
+]

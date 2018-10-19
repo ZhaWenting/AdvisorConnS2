@@ -1,0 +1,7 @@
+[
+{"type":"left_text","hero_text":"真羡慕你的黑科技"},
+{"type":"left_text","hero_text":"从北面慢慢下山"},
+{"type":"left_text","hero_text":"这关还不是太难啊"},
+{"type":"left_text","hero_text":"已经看到了6/6的门"},
+{"type":"skip","chapter_name":"$chapter4$"}
+]

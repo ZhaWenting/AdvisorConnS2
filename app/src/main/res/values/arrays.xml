@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="histroy_word">
+        <item>Silk Road</item>
+        <item>暗网</item>
+        <item>msr.mystery.onion</item>
+        <item>洋葱浏览器</item>
+        <item>比特币</item>
+        <item>区块链</item>
+        <item>Slenderman</item>
+    </string-array>
+
+    <string-array name="histroy_content">
+        <item>\t\t\t\tSilk Road，丝绸之路，暗网的淘宝，用户可以进行匿名的比特币交易。\n\n\t\t\t\t在“丝路”，你可以买到枪支、毒品，也可以贩卖人口、雇佣杀手，甚至有“出售灵魂”。\n\n</item>
+        <item>\t\t\t\t暗网，常被比喻成冰山的水下部分，这类网站无法用常见的方式搜索登陆。\n\n\t\t\t\t暗网是非法网站的集中地，潜藏着各类见不得光的交易\n\n\t\t\t\t另一方面，暗网也存在很多有学术价值的东西，而很多恐怖的传闻也只是为了骗取流量的造谣。\n\n</item>
+        <item>该页无法显示</item>
+        <item>\t\t\t\t洋葱浏览器又叫Tor，可以隐藏用户上网时的地址\n\n\t\t\t\t它的设计初衷是网络安全，最后却成了罪犯藏身之地\n\n\t\t\t\t使用洋葱登录暗网是入门课，小心辣眼睛哦！\n\n</item>
+        <item>\t\t\t\t比特币是一种企图取代交易所的虚拟货币\n\n\t\t\t\它可以脱离类似于支付宝这样的权威交易平台\n\n\t\t\t\t只是让每个人手里有一本账，通过“口口相传”来增加可信度\n\n</item>
+        <item>\t\t\t\t区块链是比特币的核心技术，采用了一种难以破解的加密方式\n\n\t\t\t\t借由这个技术已经有很多团队拥有了自己的虚拟货币\n\n\t\t\t\t亲手打造一个金融小国的感觉是不是很不一样呢？\n\n</item>
+        <item>\t\t\t\tSlenderman中文翻译瘦长鬼影，欧美系著名都市传说\n\n\t\t\t\t这东西瘦瘦长长，职业是绑架犯，穿着却特别讲究\n\n\t\t\t\t道貌岸然这个词用来形同它是再贴切不过了\n\n</item>
+    </string-array>
+</resources>

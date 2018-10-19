@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@mipmap/mailbox_bg"
+    tools:context=".InvitationFromDarkNet.activity.ExplorerActivity">
+
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/margin"
+        android:gravity="bottom"
+        android:layout_weight="2"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="0dp">
+
+        <TextView
+            android:gravity="center_vertical"
+            android:id="@+id/search_text"
+            android:layout_width="0dp"
+            android:paddingLeft="@dimen/widget_margin"
+            android:layout_marginTop="@dimen/margin"
+            android:layout_marginLeft="@dimen/pop_margin"
+            android:layout_height="@dimen/loading_margin"
+            android:layout_weight="7"
+            android:background="@drawable/search_bg" />
+
+        <TextView
+            android:layout_marginTop="@dimen/margin"
+            android:layout_marginRight="@dimen/pop_margin"
+            android:id="@+id/search_bt"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/loading_margin"
+            android:layout_weight="2"
+            android:text="搜索"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:background="@color/main_bg" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="8"
+        android:layout_marginBottom="@dimen/margin"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+        <TextView
+            android:id="@+id/search_result"
+            android:paddingTop="@dimen/loading_margin"
+            android:paddingBottom="@dimen/margin_top4"
+            android:paddingLeft="@dimen/margin_top6"
+            android:paddingRight="@dimen/loading_margin"
+            android:layout_marginLeft="@dimen/ending_top"
+            android:layout_marginRight="@dimen/ending_top"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@mipmap/explorer_body_bg"/>
+
+    </LinearLayout>
+
+</LinearLayout>

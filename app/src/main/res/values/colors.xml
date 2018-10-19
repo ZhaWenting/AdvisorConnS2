@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_bg">#3399ff</color>
+    <color name="chat_top">#8c3055</color>
+    <color name="darkgray">#777777</color>
+
+    <color name="colorPrimary">#F50057</color>
+    <color name="yellow">#FFFFBB</color>
+    <color name="colorPrimaryDark">#C51162</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#FF80AB</color>
+    <color name="gray">#888888</color>
+    <color name="topbg">#00A0E9</color>
+    <color name="normal">#e5e5e5</color>
+    <color name="tips">#D56474</color>
+    <color name="skyblue">#439cf0</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="black">#000000</color>
+    <color name="titleColor">#AF00</color>
+    <color name="colorTitleBg">#500F</color>
+    <color name="colorButton">#007FD5</color>
+    <color name="blue">#007FD5</color>
+    <color name="link">#cc1615</color>
+    <color name="linkused">#5000</color>
+    <color name="colorText">#2DAB1C</color>
+    <color name="colorButton2">#88E74450</color>
+    <color name="radiobutton">#FF007FD5</color>
+
+    <color name="divider">#e5e5e5</color>
+    <color name="offline">#8a8a8a</color>
+
+    <color name="selectItem">#FF6CA6CD</color>
+
+    <color name="stop">#2DAB1C</color>
+    <color name="working">#AF00</color>
+
+    <color name="white">#fff</color>
+    <color name="weibo_listtab_off">#8d8d8d</color>
+
+    <color name="main">#13227a</color>
+</resources>

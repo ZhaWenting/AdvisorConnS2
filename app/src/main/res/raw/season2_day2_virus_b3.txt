@@ -1,0 +1,17 @@
+[
+{"type":"hero_text","hero_text":"人的层层面具"},
+{"type":"player_single_branch","player_single_branch":"要隐藏什么"},
+{"type":"hero_text","hero_text":"一切肮脏的、神秘的、非法的、不想对外公布的东西"},
+{"type":"hero_text","hero_text":"有些人只是习惯了这个圈子"},
+{"type":"player_single_branch","player_single_branch":"听上去很可怕"},
+{"type":"hero_text","hero_text":"有可怕的东西，也有一些很珍贵的资料"},
+{"type":"hero_text","hero_text":"还有现实中不能实现的理想和信仰"},
+{"type":"hero_text","hero_text":"就像丝绸之路的创始人乌布利希"},
+{"type":"hero_text","hero_text":"他一直崇尚绝对的自由"},
+{"type":"hero_text","hero_text":"在他的法律里，人应该可以做任何事，他的法律就是没有法律"},
+{"type":"hero_text","hero_text":"丝绸之路就是他实现理想的一个平台"},
+{"type":"player_single_branch","player_single_branch":"但是这样的自由很混乱吧"},
+{"type":"hero_text","hero_text":"每个人看法不同"},
+{"type":"hero_text","hero_text":"很多人崇拜乌布利希，把他的价值观当成了教条"},
+{"type":"return_chapter","return_chapter":"$season2_day2_virus$"}
+]

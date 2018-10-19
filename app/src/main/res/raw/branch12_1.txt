@@ -1,0 +1,13 @@
+[
+{"type":"left_text","hero_text":"赶紧跑回到椅子那里"},
+{"type":"left_text","hero_text":"这安全带有点难扣"},
+{"type":"left_text","hero_text":"老是对不准"},
+{"type":"left_text","hero_text":"因为我手抖吧"},
+{"type":"left_text","hero_text":"听说遇到事故时系安全带可以保全尸"},
+{"type":"left_text","hero_text":"哎我想神马呢？"},
+{"type":"left_text","hero_text":"靠！"},
+{"type":"left_text","hero_text":"你出的什么馊主意！"},
+{"type":"left_text","hero_text":"房子一斜就掉了出去"},
+{"type":"left_text","hero_text":"幸亏抓住了山上一块石头"},
+{"type":"skip","chapter_name":"$chapter4$"}
+]

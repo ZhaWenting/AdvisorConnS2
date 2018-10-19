@@ -1,0 +1,7 @@
+[
+{"type":"hero_text","hero_text":"这么快就被看穿了"},
+{"type":"hero_text","hero_text":"没意思"},
+{"type":"hero_text","hero_text":"上次多亏你帮了我"},
+{"type":"player_single_branch","player_single_branch":"帮你离开了轮椅生活"},
+{"type":"return_chapter","return_chapter":"$season2_day1$"}
+]

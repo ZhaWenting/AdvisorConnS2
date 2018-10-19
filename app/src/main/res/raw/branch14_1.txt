@@ -1,0 +1,5 @@
+[
+{"type":"left_text","hero_text":"敲打墙面和地面"},
+{"type":"left_text","hero_text":"声音都被牛皮纸吸收了"},
+{"type":"skip","chapter_name":"$chapter4$"}
+]

@@ -1,0 +1,7 @@
+[
+{"type":"hero_text","hero_text":"马桶也是大的可怕，我要是掉进去就直接被冲走了"},
+{"type":"hero_text","hero_text":"浴缸里有个玩具鸭子"},
+{"type":"hero_text","hero_text":"捏一下发出惨叫"},
+{"type":"hero_text","hero_text":"这声音让人受不了"},
+{"type":"return_chapter","return_chapter":"$season2_day2_evening$"}
+]

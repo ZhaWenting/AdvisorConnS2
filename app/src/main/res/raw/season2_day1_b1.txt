@@ -1,0 +1,5 @@
+[
+{"type":"hero_text","hero_text":"这个梗可以别再用了吗？"},
+{"type":"player_single_branch","player_single_branch":"这是暗号懂吗"},
+{"type":"return_chapter","return_chapter":"$season2_day1$"}
+]

@@ -1,0 +1,10 @@
+[
+{"type":"left_text","hero_text":"没错，和父母一起来海边"},
+{"type":"left_text","hero_text":"用手机拍下了这个景色"},
+{"type":"left_text","hero_text":"还有……"},
+{"type":"left_text","hero_text":"玩沙的时候，认识了一个朋友"},
+{"type":"left_text","hero_text":"她被我用沙埋了起来"},
+{"type":"left_text","hero_text":"然后我被追着打"},
+{"type":"left_text","hero_text":"哈哈哈"},
+{"type":"skip","chapter_name":"$chapter2$"}
+]

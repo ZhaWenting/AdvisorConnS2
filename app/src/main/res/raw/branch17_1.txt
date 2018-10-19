@@ -1,0 +1,10 @@
+[
+{"type":"clue","clue_tag":"1"},
+{"type":"left_text","hero_text":"果然我不该闯黄灯吧"},
+{"type":"left_text","hero_text":"说起来"},
+{"type":"left_text","hero_text":"我以前也遇到过车祸"},
+{"type":"left_text","hero_text":"似乎是很重要的事"},
+{"type":"left_text","hero_text":"但是怎么想不起来了呢？"},
+{"type":"left_text","hero_text":"哎很烦……"},
+{"type":"skip","chapter_name":"$chapter1$"}
+]

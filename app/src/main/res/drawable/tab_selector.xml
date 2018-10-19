@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:Android="http://schemas.android.com/apk/res/android">
+
+    <item Android:drawable="@drawable/custom_bt5_normal" Android:state_pressed="true" />
+    <item Android:drawable="@drawable/custom_bt5_normal" Android:state_checked="true" />
+
+    <!-- 按钮可以使用时 -->
+    <item Android:drawable="@drawable/custom_bt5" Android:state_enabled="true"/>
+    <!-- 按钮不能使用时 -->
+    <item Android:drawable="@drawable/custom_bt5_disabled" Android:state_enabled="false"/>
+
+</selector>

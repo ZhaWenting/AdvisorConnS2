@@ -1,0 +1,7 @@
+[
+{"type":"left_text","hero_text":"王爱卿平身"},
+{"type":"left_text","hero_text":"给朕端一杯奶茶来"},
+{"type":"left_text","hero_text":"欢迎光临！请问您需要什么"},
+{"type":"left_text","hero_text":"还是那句话"},
+{"type":"skip","chapter_name":"$chapter1$"}
+]

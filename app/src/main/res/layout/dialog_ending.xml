@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/dialog_width"
+    android:layout_height="@dimen/dialog_height"
+    android:background="@mipmap/dialog_bg"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_marginTop="@dimen/tiny_margin"
+        android:layout_gravity="center"
+        android:id="@+id/imaginary_space"
+        android:layout_width="@dimen/dialog_title_width"
+        android:layout_height="@dimen/dialog_title_height"
+        android:background="@mipmap/gray_button"
+        android:gravity="center"
+        android:text="结局信息"
+        android:textSize="@dimen/titleText"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_marginBottom="@dimen/tiny_margin"
+        android:layout_marginTop="@dimen/tiny_margin"
+        android:layout_gravity="center"
+        android:id="@+id/ending_content"
+        android:layout_width="@dimen/dialog_title_width"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:text="点击已解锁的图标查看详情"
+        android:textSize="@dimen/ending_content" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_marginLeft="@dimen/ending_top"
+            android:layout_marginRight="@dimen/ending_top"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:enabled="false"
+                android:layout_marginRight="@dimen/pop_margin"
+                android:id="@+id/ending_amnesia"
+                android:background="@drawable/ending_amnesia_selector"
+                android:layout_width="@dimen/margin_top2"
+                android:layout_height="@dimen/margin_top2" />
+
+            <TextView
+                android:enabled="false"
+                android:id="@+id/ending_cutoff"
+                android:background="@drawable/ending_cutoff_selector"
+                android:layout_width="@dimen/margin_top2"
+                android:layout_height="@dimen/margin_top2" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginLeft="@dimen/ending_top"
+            android:layout_marginRight="@dimen/ending_top"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:enabled="false"
+                android:layout_marginRight="@dimen/pop_margin"
+                android:id="@+id/ending_infinity"
+                android:background="@drawable/ending_infinity_selector"
+                android:layout_width="@dimen/margin_top2"
+                android:layout_height="@dimen/margin_top2" />
+
+            <TextView
+                android:enabled="false"
+                android:id="@+id/ending_chaos"
+                android:background="@drawable/ending_chaos_selector"
+                android:layout_width="@dimen/margin_top2"
+                android:layout_height="@dimen/margin_top2" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginLeft="@dimen/ending_top"
+            android:layout_marginRight="@dimen/ending_top"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_marginBottom="@dimen/widget_margin5"
+            android:orientation="horizontal">
+
+            <TextView
+                android:enabled="false"
+                android:layout_marginRight="@dimen/pop_margin"
+                android:id="@+id/ending_wakeup"
+                android:background="@drawable/ending_wakeup_selector"
+                android:layout_width="@dimen/margin_top2"
+                android:layout_height="@dimen/margin_top2" />
+
+            <TextView
+                android:enabled="false"
+                android:id="@+id/ending_rebirth"
+                android:background="@drawable/ending_rebirth_selector"
+                android:layout_width="@dimen/margin_top2"
+                android:layout_height="@dimen/margin_top2" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:gravity="center"-->
+        <!--android:orientation="vertical">-->
+
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:gravity="center"-->
+            <!--android:orientation="vertical"-->
+            <!--android:weightSum="1">-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/ending_infinity"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="@dimen/config_height2"-->
+                <!--android:gravity="center_vertical"-->
+                <!--android:text="无限"-->
+                <!--android:textColor="@color/textColorPrimary"-->
+                <!--android:textSize="@dimen/endingText"-->
+                <!--android:textStyle="bold" />-->
+
+            <!--<TextView-->
+                <!--android:visibility="invisible"-->
+                <!--android:id="@+id/infinity_content"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="@dimen/config_height2"-->
+                <!--android:layout_marginLeft="@dimen/widget_margin"-->
+                <!--android:layout_marginRight="@dimen/widget_margin"-->
+                <!--android:gravity="center"-->
+                <!--android:text="被关在无限循环的地图中，新主角将诞生"-->
+                <!--android:textColor="@color/textColorPrimary"-->
+                <!--android:textSize="@dimen/ending_content"-->
+                <!--android:textStyle="bold" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/ending_chaos"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="@dimen/config_height2"-->
+                <!--android:gravity="center_vertical"-->
+                <!--android:text="混沌"-->
+                <!--android:textColor="@color/textColorPrimary"-->
+                <!--android:textSize="@dimen/endingText"-->
+                <!--android:textStyle="bold" />-->
+
+            <!--<TextView-->
+                <!--android:visibility="invisible"-->
+                <!--android:id="@+id/chaos_content"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="@dimen/config_height2"-->
+                <!--android:gravity="center_vertical"-->
+                <!--android:text="小唯脱离服务器控制，AI取代原型?"-->
+                <!--android:textColor="@color/textColorPrimary"-->
+                <!--android:textSize="@dimen/ending_content"-->
+                <!--android:textStyle="bold" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/ending_wakeup"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="@dimen/config_height2"-->
+                <!--android:gravity="center_vertical"-->
+                <!--android:text="苏醒"-->
+                <!--android:textColor="@color/textColorPrimary"-->
+                <!--android:textSize="@dimen/endingText"-->
+                <!--android:textStyle="bold" />-->
+
+            <!--<TextView-->
+                <!--android:visibility="invisible"-->
+                <!--android:id="@+id/wakeup_content"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="@dimen/config_height2"-->
+                <!--android:gravity="center_vertical"-->
+                <!--android:text="从植物人状态中苏醒，小唯AI被删除"-->
+                <!--android:textColor="@color/textColorPrimary"-->
+                <!--android:textSize="@dimen/ending_content"-->
+                <!--android:textStyle="bold" />-->
+
+
+            <!--<TextView-->
+                <!--android:id="@+id/ending_rebirth"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="@dimen/config_height2"-->
+                <!--android:gravity="center_vertical"-->
+                <!--android:text="重生"-->
+                <!--android:textColor="@color/textColorPrimary"-->
+                <!--android:textSize="@dimen/endingText"-->
+                <!--android:textStyle="bold" />-->
+
+
+
+            <!--<TextView-->
+                <!--android:visibility="invisible"-->
+                <!--android:id="@+id/rebirth_content"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="@dimen/config_height2"-->
+                <!--android:gravity="center_vertical"-->
+                <!--android:text="恢复所有记忆，帮助了小唯，和贾唯重聚"-->
+                <!--android:textColor="@color/textColorPrimary"-->
+                <!--android:textSize="@dimen/ending_content"-->
+                <!--android:textStyle="bold" />-->
+
+        <!--</LinearLayout>-->
+
+    <!--</LinearLayout>-->
+
+
+</LinearLayout>

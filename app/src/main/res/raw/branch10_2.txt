@@ -1,0 +1,16 @@
+[
+{"type":"clue","clue_tag":"3"},
+{"type":"left_text","hero_text":"她确实是个怪人"},
+{"type":"left_text","hero_text":"最喜欢利用程序bug去攻击服务器"},
+{"type":"left_text","hero_text":"她的网名叫virus"},
+{"type":"left_text","hero_text":"戏称自己为小V"},
+{"type":"left_text","hero_text":"小唯这个名字就是这么来的"},
+{"type":"right_text","player_text":"我闻到了阴谋"},
+{"type":"left_text","hero_text":"我跟你想的应该是一样的"},
+{"type":"left_text","hero_text":"时间循环很可能是她弄出来的"},
+{"type":"left_text","hero_text":"因为这一切由钥匙开端"},
+{"type":"left_text","hero_text":"而钥匙是小唯给我的"},
+{"type":"left_text","hero_text":"也许她想破坏程序"},
+{"type":"left_text","hero_text":"她为什么要这么做呢"},
+{"type":"skip","chapter_name":"$chapter3$"}
+]

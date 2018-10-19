@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cardview_dark_background"
+    android:orientation="vertical"
+    tools:context="alphabet.adviserconn.MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_height="0dp"
+        android:layout_weight="5">
+
+        <ImageView
+            android:id="@+id/logo_iv"
+            android:layout_width="@dimen/select_width"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:src="@mipmap/main_logo" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="@dimen/select_width"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="3.5"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/main_select1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="@dimen/widget_margin"
+            android:layout_weight="1"
+            android:background="@mipmap/red_button"
+            android:gravity="center"
+            android:text="@string/main_chapter1_name"
+            android:textStyle="bold"
+            android:textSize="@dimen/username"
+            android:textColor="@color/white" />
+
+
+        <TextView
+            android:id="@+id/main_select2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="@dimen/widget_margin"
+            android:layout_weight="1"
+            android:background="@mipmap/gray_button"
+            android:gravity="center"
+            android:text="@string/main_chapter2_name"
+            android:textStyle="bold"
+            android:textSize="@dimen/username"
+            android:textColor="@color/cardview_dark_background" />
+
+
+        <TextView
+            android:id="@+id/main_select3"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="@dimen/widget_margin"
+            android:layout_weight="1"
+            android:background="@mipmap/green_button"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="@string/main_chapter3_name"
+            android:textSize="@dimen/username"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:layout_width="@dimen/navi"
+        android:layout_height="0dp"
+        android:layout_gravity="end"
+        android:layout_marginBottom="@dimen/widget_margin"
+        android:layout_marginRight="@dimen/widget_margin"
+        android:layout_weight="1.5"
+        android:src="@mipmap/main_company_logo" />
+
+</LinearLayout>

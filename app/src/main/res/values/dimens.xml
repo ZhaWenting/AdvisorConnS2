@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="loading_words_width_chapter2">197dp</dimen>
+    <dimen name="loading_words_height_chapter2">127dp</dimen>
+
+    <dimen name="desktop_icon">100dp</dimen>
+
+    <dimen name="titleText">20sp</dimen>
+    <dimen name="endingText">18sp</dimen>
+    <dimen name="username">16sp</dimen>
+    <dimen name="dialog_text">14sp</dimen>
+    <dimen name="ending_content">12sp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="navi">60dp</dimen>
+    <dimen name="widget_margin">10dp</dimen>
+    <dimen name="widget_margin3">15dp</dimen>
+    <dimen name="ending_top">20dp</dimen>
+    <dimen name="widget_margin2">5dp</dimen>
+    <dimen name="widget_margin5">4dp</dimen>
+    <dimen name="widget_margin4">6dp</dimen>
+    <dimen name="loading_margin">50dp</dimen>
+    <dimen name="dialog_title_height">47dp</dimen>
+    <dimen name="pop_margin">30dp</dimen>
+    <dimen name="select_width">180dp</dimen>
+    <dimen name="staff_width">220dp</dimen>
+    <dimen name="dialog_title_width">252dp</dimen>
+    <dimen name="dialog_width">260dp</dimen>
+    <dimen name="dialog_height">350dp</dimen>
+    <dimen name="history_height">300dp</dimen>
+    <dimen name="config_dialog_height">430dp</dimen>
+    <dimen name="button_width">250dp</dimen>
+    <dimen name="config_width">180dp</dimen>
+    <dimen name="config_height">40dp</dimen>
+    <dimen name="dialog_text_right">45dp</dimen>
+    <dimen name="config_height2">35dp</dimen>
+    <dimen name="margin_top">150dp</dimen>
+    <dimen name="margin_top2">80dp</dimen>
+    <dimen name="margin_top6">75dp</dimen>
+    <dimen name="margin_top3">120dp</dimen>
+    <dimen name="margin_start">64dp</dimen>
+    <dimen name="tiny_margin">3dp</dimen>
+    <dimen name="margin_top4">100dp</dimen>
+    <dimen name="avatar_width">85dp</dimen>
+    <dimen name="margin_top5">124dp</dimen>
+
+    <dimen name="ending_top2">25dp</dimen>
+
+</resources>

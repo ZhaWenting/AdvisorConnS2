@@ -1,0 +1,12 @@
+[
+{"type":"left_text","hero_text":"你别吓我"},
+{"type":"left_text","hero_text":"什么下一个我"},
+{"type":"left_text","hero_text":"我还有好多个吗？"},
+{"type":"left_text","hero_text":"科幻小说看多了吧"},
+{"type":"left_text","hero_text":"不过"},
+{"type":"left_text","hero_text":"要是在游戏里的话"},
+{"type":"left_text","hero_text":"有几个相同的角色也不奇怪吧"},
+{"type":"left_text","hero_text":"她的意思难道是……要我去死？"},
+{"type":"left_text","hero_text":"背后一阵凉"},
+{"type":"skip","chapter_name":"$ending_infinity$"}
+]

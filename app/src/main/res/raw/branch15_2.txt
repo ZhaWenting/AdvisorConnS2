@@ -1,0 +1,7 @@
+[
+{"type":"left_text","hero_text":"他运气不太好"},
+{"type":"left_text","hero_text":"服务器宕机的时候，数据损坏了"},
+{"type":"left_text","hero_text":"现在要恢复人格不太可能了"},
+{"type":"left_text","hero_text":"不过可以再根据原型做一个新的AI出来"},
+{"type":"skip","chapter_name":"$ending_chaos$"}
+]

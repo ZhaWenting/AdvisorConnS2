@@ -1,0 +1,8 @@
+[
+{"type":"left_text","hero_text":"湖南卫视暑假不见不散"},
+{"type":"left_text","hero_text":"毛线啊！"},
+{"type":"left_text","hero_text":"八阿哥的英文是bug"},
+{"type":"left_text","hero_text":"就是程序里的一些错误"},
+{"type":"left_text","hero_text":"游戏的时间循环可能就是一种bug"},
+{"type":"skip","chapter_name":"$chapter3$"}
+]

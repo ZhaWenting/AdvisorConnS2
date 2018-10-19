@@ -1,0 +1,9 @@
+[
+{"type":"left_text","hero_text":"爬上墙？"},
+{"type":"left_text","hero_text":"这难度有点大"},
+{"type":"left_text","hero_text":"我试试"},
+{"type":"left_text","hero_text":"最前面的圆头怪跟过来了"},
+{"type":"left_text","hero_text":"它一下子就跳到墙上了"},
+{"type":"left_text","hero_text":"痛！"},
+{"type":"ending","ending_name":"cutoff"}
+]

@@ -1,0 +1,5 @@
+[
+{"sender_name":"Alex","receiver_name":"Marco","title":"你好","content":"你好欢迎使用中国移动","attachment":"移动广告.jpg","time":"15:00"},
+{"sender_name":"Ben","receiver_name":"Marco","title":"求助","content":"我遇到问题了","attachment":"语音.mp3","time":"一天前"},
+{"sender_name":"Chris","receiver_name":"Marco","title":"好久不见","content":"找我请拨打110","attachment":"移动广告.jpg","time":"两天前"}
+]

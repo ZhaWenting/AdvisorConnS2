@@ -1,0 +1,11 @@
+[
+{"type":"left_text","hero_text":"你说对了"},
+{"type":"left_text","hero_text":"我被拘留过"},
+{"type":"left_text","hero_text":"而且那时我没有意识"},
+{"type":"left_text","hero_text":"但是我们输了官司"},
+{"type":"left_text","hero_text":"我也理应被关起来"},
+{"type":"left_text","hero_text":"不过因为我的健康情况太差了"},
+{"type":"left_text","hero_text":"最后还是被放出来养病"},
+{"type":"left_text","hero_text":"这几年里我一直是个“死人”"},
+{"type":"skip","chapter_name":"$chapter4$"}
+]

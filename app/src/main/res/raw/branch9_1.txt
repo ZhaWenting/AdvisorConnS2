@@ -1,0 +1,9 @@
+[
+{"type":"left_text","hero_text":"喂——"},
+{"type":"left_text","hero_text":"有人在吗"},
+{"type":"left_text","hero_text":"听到远处传来弱弱的说话声"},
+{"type":"left_text","hero_text":"难道真的有人"},
+{"type":"left_text","hero_text":"卧槽这不是我自己的回音吗"},
+{"type":"left_text","hero_text":"瞎开心"},
+{"type":"skip","chapter_name":"$chapter3$"}
+]

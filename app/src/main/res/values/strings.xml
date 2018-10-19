@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">云顾问</string>
+    <string name="app_id">26087046269</string>
+
+    <string name="fall_down">摔倒</string>
+
+    <string name="main_chapter1_name">副本人生</string>
+    <string name="main_chapter2_name">暗网邀请函</string>
+    <string name="main_chapter3_name">退出</string>
+
+    <string name="first_season2">在吗？我有问题要问你</string>
+
+    <string name="chat_icon">通讯</string>
+    <string name="mail_icon">邮箱</string>
+    <string name="explorer_icon">浏览器</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Messages</string>
+
+    <!-- navigation drawer left_text labels  -->
+
+    <string name="title_messages">云顾问</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_home">Home</string>
+
+    <string name="offline">对方已离线</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

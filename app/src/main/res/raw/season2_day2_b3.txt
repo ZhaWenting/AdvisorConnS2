@@ -1,0 +1,8 @@
+[
+{"type":"hero_text","hero_text":"拐了个弯，进厕所，看看能不能爬通风口出去"},
+{"type":"hero_text","hero_text":"踩在马桶上试试"},
+{"type":"hero_text","hero_text":"差一点，急死人了"},
+{"type":"hero_text","hero_text":"那东西脚步声越来越近了"},
+{"type":"hero_text","hero_text":"用尽全力跳一下"},
+{"type":"ending","ending":"ending_falldown"}
+]

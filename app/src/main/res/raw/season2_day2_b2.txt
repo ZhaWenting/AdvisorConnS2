@@ -1,0 +1,7 @@
+[
+{"type":"hero_text","hero_text":"客厅的桌子很长，坐在一头看不清对面的人"},
+{"type":"hero_text","hero_text":"桌子上有个水果盘"},
+{"type":"hero_text","hero_text":"很想吃苹果，就是怕自己抬不起来……"},
+{"type":"hero_text","hero_text":"我这是进了巨人国？"},
+{"type":"return_chapter","return_chapter":"$season2_day2_evening$"}
+]

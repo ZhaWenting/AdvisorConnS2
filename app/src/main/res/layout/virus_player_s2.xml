@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_marginTop="@dimen/widget_margin"
+    android:layout_marginLeft="@dimen/loading_margin"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_margin="@dimen/widget_margin"
+        android:background="@mipmap/virus_player"
+        android:paddingLeft="@dimen/ending_top"
+        android:paddingTop="@dimen/widget_margin3"
+        android:paddingBottom="@dimen/widget_margin3"
+        android:paddingRight="@dimen/config_height"
+        android:textColor="@color/navigationBarColor" />
+
+
+</FrameLayout>

@@ -1,0 +1,9 @@
+[
+{"type":"hero_text","hero_text":"排球，一个扣杀，超带感的呢"},
+{"type":"player_single_branch","player_single_branch":"什么时候来切磋一下"},
+{"type":"hero_text","hero_text":"我会拉着西亚去打球，他运动神经很一般"},
+{"type":"player_single_branch","player_single_branch":"比赛结果怎么样"},
+{"type":"hero_text","hero_text":"15：0，当然是我全胜！"},
+{"type":"player_single_branch","player_single_branch":"厉害"},
+{"type":"return_chapter","return_chapter":"$season2_day2_virus$"}
+]
