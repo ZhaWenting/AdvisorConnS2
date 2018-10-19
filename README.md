@@ -1,6 +1,6 @@
 # AdvisorConn
 
-## A novel to interact, just like Lifeline
+A novel to interact, like Lifeline
 
 ## Available on Google play (Chinese only for now)
 https://play.google.com/store/apps/details?id=alphabet.adviserconn
