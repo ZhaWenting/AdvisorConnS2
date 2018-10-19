@@ -2,7 +2,7 @@
 
 A novel to interact, like Lifeline
 
-## Available on Google play (Chinese only for now)
+## Available on Google play (Chinese only)
 https://play.google.com/store/apps/details?id=alphabet.adviserconn
 
 ### History
