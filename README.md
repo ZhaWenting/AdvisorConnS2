@@ -2,8 +2,10 @@
 
 A novel to interact, like Lifeline
 
-## Available on Google play (Chinese only)
+## Available on Google play, TapTap and our own download page (Chinese only)
 https://play.google.com/store/apps/details?id=alphabet.adviserconn
+https://www.taptap.com/app/80629
+https://game.97hjh.cn/
 
 ### History
 #### 12/2017
